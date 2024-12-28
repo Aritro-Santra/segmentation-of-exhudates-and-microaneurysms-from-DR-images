@@ -1,7 +1,7 @@
 # Image Processing with Eigenvalue Analysis and Medical Image Segmentation  
 
 ## Overview  
-This project combines advanced image analysis techniques with medical image segmentation to extract meaningful insights from visual data. The application is divided into two primary components:  
+This project combines advanced image analysis techniques with medical image segmentation to extract meaningful insights. The application is divided into two primary components:  
 
 1. **Image Eigenvalue Analyzer**  
    - Analyzes eigenvalues of image channels (grayscale, red, green, and blue).  
@@ -12,7 +12,7 @@ This project combines advanced image analysis techniques with medical image segm
    - Implements a U-Net-based segmentation model for detecting:  
      - **Exudates**  
      - **Microaneurysms**  
-   - Designed for medical image analysis, particularly in identifying features in retinal scans.  
+   - Designed for medical image analysis, particularly in identifying features in fundus images.  
 
 ---
 
